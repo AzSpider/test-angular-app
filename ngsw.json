@@ -1,0 +1,82 @@
+{
+  "configVersion": 1,
+  "timestamp": 1587892436049,
+  "index": "https://AzSpider.github.io/test-angular-app/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://AzSpider.github.io/test-angular-app/favicon.ico",
+        "https://AzSpider.github.io/test-angular-app/index.html",
+        "https://AzSpider.github.io/test-angular-app/main-es2015.31015991297e3c6d262a.js",
+        "https://AzSpider.github.io/test-angular-app/main-es5.31015991297e3c6d262a.js",
+        "https://AzSpider.github.io/test-angular-app/manifest.webmanifest",
+        "https://AzSpider.github.io/test-angular-app/polyfills-es2015.f8d7ae8b8a28c567fae7.js",
+        "https://AzSpider.github.io/test-angular-app/polyfills-es5.30e587ebdc07016ad8d1.js",
+        "https://AzSpider.github.io/test-angular-app/runtime-es2015.1eba213af0b233498d9d.js",
+        "https://AzSpider.github.io/test-angular-app/runtime-es5.1eba213af0b233498d9d.js",
+        "https://AzSpider.github.io/test-angular-app/styles.c7ea3b8058a0e880ad91.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://AzSpider.github.io/test-angular-app/assets/icons/icon-128x128.png",
+        "https://AzSpider.github.io/test-angular-app/assets/icons/icon-144x144.png",
+        "https://AzSpider.github.io/test-angular-app/assets/icons/icon-152x152.png",
+        "https://AzSpider.github.io/test-angular-app/assets/icons/icon-192x192.png",
+        "https://AzSpider.github.io/test-angular-app/assets/icons/icon-384x384.png",
+        "https://AzSpider.github.io/test-angular-app/assets/icons/icon-512x512.png",
+        "https://AzSpider.github.io/test-angular-app/assets/icons/icon-72x72.png",
+        "https://AzSpider.github.io/test-angular-app/assets/icons/icon-96x96.png",
+        "https://AzSpider.github.io/test-angular-app/assets/shipping.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://AzSpider.github.io/test-angular-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://AzSpider.github.io/test-angular-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://AzSpider.github.io/test-angular-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://AzSpider.github.io/test-angular-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://AzSpider.github.io/test-angular-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://AzSpider.github.io/test-angular-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://AzSpider.github.io/test-angular-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://AzSpider.github.io/test-angular-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://AzSpider.github.io/test-angular-app/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
+    "https://AzSpider.github.io/test-angular-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://AzSpider.github.io/test-angular-app/index.html": "10721949176bdd4d9d5179205d47436732359304",
+    "https://AzSpider.github.io/test-angular-app/main-es2015.31015991297e3c6d262a.js": "3e6d0c1a718cdfaf6ad3656707f7a570eb2f8dca",
+    "https://AzSpider.github.io/test-angular-app/main-es5.31015991297e3c6d262a.js": "d1e8f7c9e171693023617e217d910a6ca29867ad",
+    "https://AzSpider.github.io/test-angular-app/manifest.webmanifest": "fd97c9f26752f7d3ad89139e279fa9b6e88ad486",
+    "https://AzSpider.github.io/test-angular-app/polyfills-es2015.f8d7ae8b8a28c567fae7.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://AzSpider.github.io/test-angular-app/polyfills-es5.30e587ebdc07016ad8d1.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
+    "https://AzSpider.github.io/test-angular-app/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://AzSpider.github.io/test-angular-app/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://AzSpider.github.io/test-angular-app/styles.c7ea3b8058a0e880ad91.css": "afdfbd6fa0a454418a996df3f3117579c16d465e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
